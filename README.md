@@ -1,6 +1,6 @@
 # Dance2MIDI: Dance-driven multi-instruments music generation
 
-![visualization](./assets/vis.pdf)
+![visualization](./assets/vis.png)
 
 
 
